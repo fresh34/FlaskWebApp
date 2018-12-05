@@ -1,1 +1,1 @@
-web: gunicorn app:appheroku create twoja-nazwa-aplikacji
+web: gunicorn app:app
